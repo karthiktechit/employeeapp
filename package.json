@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "browserify": "*",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-notify": "*",
+    "jasmine-react": "^1.1.0",
+    "jquery-ui": "^1.10.5",
+    "react": "*",
+    "react-dom": "*",
+    "reactify": "*",
+    "require": "^2.4.20",
+    "vinyl-source-stream": "*"
+  }
+}
